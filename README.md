@@ -12,6 +12,28 @@ Full write-up :  [Here](https://medium.com/@ana.bee/indian-agricultural-market-t
 - **Columns:** State, District, Market, Commodity, Variety, Date, Min/Max/Modal Price  
 
 ---
+# Indian Agricultural Market Trends  
+
+This project analyzes agricultural commodity price trends in India using data-driven methods. Prices swing with supply, demand, and regional factors — impacting farmers, agribusinesses, and policymakers. The goal is to highlight key trends, volatility, and regional disparities in a clear, visual way.  
+
+📖 Full write-up → [Medium Article](https://medium.com/your-link-here)  
+
+---
+
+## Dataset  
+- **Source:** Kaggle  
+- **Rows:** ~2,200  
+- **Columns:** State, District, Market, Commodity, Variety, Date, Min/Max/Modal Price  
+
+---
+
+## Methodology  
+1. **Data Cleaning** – handled missing values, standardized commodity names, and formatted dates  
+2. **Exploratory Data Analysis (EDA)** – grouped commodities, calculated average/volatility, and compared regional differences  
+3. **Visualization** – plotted price distributions, volatility measures, and commodity comparisons using matplotlib & seaborn  
+4. **Insights Extraction** – identified high-value crops, most volatile groups, and notable regional disparities  
+
+---
 
 ## Key Findings  
 - **High-value crops:** Black Pepper, Apples, Bengal Gram Dal  
