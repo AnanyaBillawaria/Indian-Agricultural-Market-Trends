@@ -1,47 +1,50 @@
-Indian Agricultural Market Trends
+# Indian Agricultural Market Trends  
 
-This project analyzes agricultural commodity price trends in India using data-driven methods. Prices swing with supply, demand, and regional factors — impacting farmers, agribusinesses, and policymakers. The goal is to highlight key trends, volatility, and regional disparities in a clear, visual way.
+This project analyzes agricultural commodity price trends in India using data-driven methods. Prices swing with supply, demand, and regional factors — impacting farmers, agribusinesses, and policymakers. The goal is to highlight key trends, volatility, and regional disparities in a clear, visual way.  
 
-📖 Full write-up → Medium Article
+Full write-up :  [Medium Article](https://medium.com/your-link-here)  
 
-Dataset
+---
 
-Source: Kaggle
+## Dataset  
+- **Source:** Kaggle  
+- **Rows:** ~2,200  
+- **Columns:** State, District, Market, Commodity, Variety, Date, Min/Max/Modal Price  
 
-Rows: ~2,200
+---
 
-Columns: State, District, Market, Commodity, Variety, Date, Min/Max/Modal Price
+## Key Findings  
+- **High-value crops:** Black Pepper, Apples, Bengal Gram Dal  
+- **Volatility:** Pulses & legumes most unstable, cereals more stable  
+- **Regional disparities:** South Andaman (Black Pepper) & Pune (Apples) showed extreme price ranges  
 
-Key Findings
+---
 
-High-value crops: Black Pepper, Apples, Bengal Gram Dal
+## Visuals  
+Plots are stored in the `Agriculture_DataViz/` folder.  
 
-Volatility: Pulses & legumes most unstable, cereals more stable
+Example:  
+![Average Price by Group](Agriculture_DataViz/average_price_by_group.png)  
 
-Regional disparities: South Andaman (Black Pepper) & Pune (Apples) showed extreme price ranges
+---
 
-Visuals
+## Tools & Libraries  
+- Python  
+- pandas  
+- numpy  
+- matplotlib  
+- seaborn  
 
-Plots are in the Agriculture_DataViz/ folder.
+---
 
-Example:
+## Setup  
 
+Clone the repo and install the dependencies:  
 
-Tools
-
-Python · pandas · numpy · matplotlib · seaborn
-
-Future Work
-
-Expand dataset with more years and commodities
-
-Explore inflation-adjusted price trends
-
-Add interactive dashboards (Plotly/Streamlit)
-
-Link price volatility to rainfall or policy changes
-
-Author
+```bash
+git clone https://github.com/AnanyaBillawaria/Indian-Agricultural-Market-Trends.git
+cd Indian-Agricultural-Market-Trends
+pip install -r requirements.txt
 
 👩‍💻 Ananya Billawaria
 Medium
