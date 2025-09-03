@@ -2,7 +2,7 @@
 
 This project analyzes agricultural commodity price trends in India using data-driven methods. Prices swing with supply, demand, and regional factors — impacting farmers, agribusinesses, and policymakers. The goal is to highlight key trends, volatility, and regional disparities in a clear, visual way.  
 
-Full write-up :  [Medium Article](https://medium.com/your-link-here)  
+Full write-up :  [Medium Article](https://medium.com/@ana.bee/indian-agricultural-market-trends-b6b304b1eb4d))  
 
 ---
 
@@ -22,9 +22,6 @@ Full write-up :  [Medium Article](https://medium.com/your-link-here)
 
 ## Visuals  
 Plots are stored in the `Agriculture_DataViz/` folder.  
-
-Example:  
-![Average Price by Group](Agriculture_DataViz/average_price_by_group.png)  
 
 ---
 
@@ -46,8 +43,4 @@ git clone https://github.com/AnanyaBillawaria/Indian-Agricultural-Market-Trends.
 cd Indian-Agricultural-Market-Trends
 pip install -r requirements.txt
 
-👩‍💻 Ananya Billawaria
-Medium
- | GitHub
-Medium
- | GitHub
+Ananya Billawaria
