@@ -1,17 +1,4 @@
-# Indian Agricultural Market Trends  
 
-This project analyzes agricultural commodity price trends in India using data-driven methods. Prices swing with supply, demand, and regional factors impacting farmers, agribusinesses, and policymakers. The goal is to highlight key trends, volatility, and regional disparities in a clear, visual way.  
-
-Full write-up :  [Here](https://medium.com/@ana.bee/indian-agricultural-market-trends-b6b304b1eb4d)  
-
----
-
-## Dataset  
-- **Source:** Kaggle  
-- **Rows:** ~2,200  
-- **Columns:** State, District, Market, Commodity, Variety, Date, Min/Max/Modal Price  
-
----
 # Indian Agricultural Market Trends  
 
 This project analyzes agricultural commodity price trends in India using data-driven methods. Prices swing with supply, demand, and regional factors impacting farmers, agribusinesses, and policymakers. The goal is to highlight key trends, volatility, and regional disparities in a clear, visual way.  
